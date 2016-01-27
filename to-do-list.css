@@ -1,0 +1,61 @@
+body {
+	background-color: #74AFAD;
+	text-align: center;
+	padding-left: 230px;
+	font-family: comic sans ms, cursive, sans-serif;
+
+}
+
+#page {
+	background-image: url('post-it-note.png');
+	background-repeat: no-repeat;
+	background-size: 830px;
+	display: block;
+	background-position: top center;
+	position: fixed;
+	width: 820px;
+	height: 700px;
+	overflow: scroll;
+	text-align: center;
+	padding-top: 35px;
+
+}
+
+#list-tasks {
+	width: 575px;
+	height: 290px;
+	overflow: scroll;
+	text-align: center;
+}
+
+#input-text {
+	width: 300px;
+	height: 25px;
+	font-family: comic sans ms, cursive, sans-serif;
+	font-size: 18px;
+
+}
+
+h1 {
+	color: #FF6600;
+	font-size: 45px;
+}
+
+
+li {
+	line-height: 1.4em;
+	background-color: #D9853B;
+	opacity: .8;
+	color: #005A31;
+	margin-left: 130px;
+	margin-bottom: 20px;
+	padding: 10px;
+	text-align: left;
+	font-size: 18px;
+	list-style-type: none;
+}
+
+button {
+	width: 100px;
+
+}
